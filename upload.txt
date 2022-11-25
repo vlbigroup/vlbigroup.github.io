@@ -1,0 +1,6 @@
+ssh -oHostKeyAlgorithms=+ssh-rsa rdahale@www.iaa.es
+
+# Uncomment ssh lines in sudo nano /etc/ssh/ssh_config
+scp -r ./* rdahale@www.iaa.es:/home/web/grupos_dr7/vlbigroup/
+
+
