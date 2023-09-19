@@ -1,3 +1,10 @@
+Clone https://github.com/blackhole-iaa/blackhole-iaa.github.io
+Work your chnages here
+Do `bundle exec jekyll build``
+Copy the _site folder to clone of  https://github.com/vlbigroup/vlbigroup.github.io
+Push changes on github of both.
+Copy contents of https://github.com/vlbigroup/vlbigroup.github.io to rdahale@www.iaa.es:/home/web/grupos_dr7/vlbigroup/
+
 ssh -oHostKeyAlgorithms=+ssh-rsa rdahale@www.iaa.es
 
 # Uncomment ssh lines in sudo nano /etc/ssh/ssh_config
