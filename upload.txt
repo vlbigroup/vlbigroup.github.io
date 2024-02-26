@@ -5,9 +5,8 @@ Copy the _site folder to clone of  https://github.com/vlbigroup/vlbigroup.github
 Push changes on github of both.
 Copy contents of https://github.com/vlbigroup/vlbigroup.github.io to rdahale@www.iaa.es:/home/web/grupos_dr7/vlbigroup/
 
-ssh -oHostKeyAlgorithms=+ssh-rsa rdahale@www.iaa.es
+ssh rdahale@home.iaa.csic.es
 
-# Uncomment ssh lines in sudo nano /etc/ssh/ssh_config
-scp -r ./* rdahale@www.iaa.es:/home/web/grupos_dr7/vlbigroup/
+scp -r ./* rdahale@home.iaa.csic.es:/home/users/dreg/rdahale/vlbigroup/
 
 
