@@ -1,0 +1,261 @@
+I"�!<h1 id="group-members">Group Members</h1>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/jose1.jpg" class="img-responsive" width="30%" style="float: left" /></p>
+    <h4>Dr. José Luis Gómez</h4>
+    <p><i>Research Scientist / Group Leader <br />
+  Email: <a href="mailto:jlgomez@iaa.es">jlgomez@iaa.es</a></i> <br />
+  <a href="https://ui.adsabs.harvard.edu/search/filter_database_fq_database=OR&amp;filter_database_fq_database=database%3A%22astronomy%22&amp;format=SHORT&amp;fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&amp;fq_database=(database%3A%22astronomy%22)&amp;p_=0&amp;q=%3Dauthor%3A(%22gomez%2C%20j%20l%22%20OR%20%22gomez%2C%20jose%20l%22%20OR%20%22gomez%2C%20jose%20luis%22)&amp;sort=score%20desc%2C%20bibcode%20desc&amp;unprocessed_parameter=adsobj_query&amp;unprocessed_parameter=qform" target="_blank">Publications </a> <br />
+  <a href="http://vlbigroup.iaa.es " target="_blank">Personal Website </a></p>
+
+    <ul style="overflow: hidden">
+
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/antxon1.jpg" class="img-responsive" width="30%" style="float: left" /></p>
+    <h4>Dr. Antonio María Alberdi</h4>
+    <p><i>Director at IAA <br />
+  Email: <a href="mailto:antxon@iaa.es">antxon@iaa.es</a></i> <br />
+  <a href="https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&amp;fq_author=(author_facet_hier%3A%221%2FAlberdi%2C%20A%2FAlberdi%2C%20A%22%20OR%20author_facet_hier%3A%221%2FAlberdi%2C%20A%2FAlberdi%2C%20Antxon%22%20OR%20author_facet_hier%3A%221%2FAlberdi%2C%20A%2FAlberdi%2C%20Antonio%22)&amp;p_=0&amp;q=author%3A%22Antonio%20Mar%C3%ADa%20Alberdi%22&amp;sort=date%20desc%2C%20bibcode%20desc" target="_blank">Publications </a> <br />
+  <a href="https://www.iaa.csic.es/en " target="_blank">Personal Website </a></p>
+
+    <ul style="overflow: hidden">
+
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/thalia1.jpg" class="img-responsive" width="30%" style="float: left" /></p>
+    <h4>Dr. Efthalia Traianou</h4>
+    <p><i>Postdoctoral fellow <br />
+  Email: <a href="mailto:traianou@iaa.es">traianou@iaa.es</a></i> <br />
+  <a href="https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=AND&amp;filter_author_facet_hier_fq_author=author_facet_hier%3A%220%2FTraianou%2C%20E%22&amp;fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&amp;fq_author=(author_facet_hier%3A%220%2FTraianou%2C%20E%22)&amp;q=Efthalia%20Traianou&amp;sort=date%20desc%2C%20bibcode%20desc&amp;p_=0" target="_blank">Publications </a> <br />
+  <a href="https://thaliatraianou.github.io/ " target="_blank">Personal Website </a></p>
+
+    <p>Joined in May 2021</p>
+
+    <ul style="overflow: hidden">
+
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/ilje1.jpg" class="img-responsive" width="30%" style="float: left" /></p>
+    <h4>Dr. Ilje Cho</h4>
+    <p><i>Postdoctoral fellow <br />
+  Email: <a href="mailto:icho@iaa.es">icho@iaa.es</a></i> <br />
+  <a href="https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=OR&amp;filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FCho%2C%20I%2FCho%2C%20I%22&amp;filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FCho%2C%20I%2FCho%2C%20Ilje%22&amp;fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&amp;fq_author=(author_facet_hier%3A%221%2FCho%2C%20I%2FCho%2C%20I%22%20OR%20author_facet_hier%3A%221%2FCho%2C%20I%2FCho%2C%20Ilje%22)&amp;q=author%3A%22cho%2C%20ilje%22&amp;sort=date%20desc%2C%20bibcode%20desc&amp;p_=0" target="_blank">Publications </a> <br />
+  <a href="https://iljecho.github.io/ " target="_blank">Personal Website </a></p>
+
+    <p>Joined in June 2021</p>
+
+    <ul style="overflow: hidden">
+
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/antonio1.jpg" class="img-responsive" width="30%" style="float: left" /></p>
+    <h4>Dr. Antonio Fuentes</h4>
+    <p><i>Postdoctoral fellow <br />
+  Email: <a href="mailto:afuentes@iaa.es">afuentes@iaa.es</a></i> <br />
+  <a href="https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=OR&amp;filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FFuentes%2C%20A%2FFuentes%2C%20Antonio%22&amp;filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FFuentes%2C%20A%2FFuentes%2C%20A%22&amp;fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&amp;fq_author=(author_facet_hier%3A%221%2FFuentes%2C%20A%2FFuentes%2C%20Antonio%22%20OR%20author_facet_hier%3A%221%2FFuentes%2C%20A%2FFuentes%2C%20A%22)&amp;q=antonio%20fuentes&amp;sort=date%20desc%2C%20bibcode%20desc&amp;p_=0" target="_blank">Publications </a> <br />
+  <a href=" " target="_blank">Personal Website </a></p>
+
+    <p>Joined in August 2018</p>
+
+    <ul style="overflow: hidden">
+
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/teresa1.jpg" class="img-responsive" width="30%" style="float: left" /></p>
+    <h4>Teresa Toscano</h4>
+    <p><i>PhD Candidate <br />
+  Email: <a href="mailto:ttoscano@iaa.es">ttoscano@iaa.es</a></i> <br />
+  <a href="https://ui.adsabs.harvard.edu/search/q=author%3A%22Toscano%2C%20Teresa%22&amp;sort=date%20desc%2C%20bibcode%20desc&amp;p_=0" target="_blank">Publications </a> <br />
+  <a href="https://ttoscanodomingo.github.io/ " target="_blank">Personal Website </a></p>
+
+    <p>Joined in September 2021</p>
+
+    <ul style="overflow: hidden">
+
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/rohan1.jpg" class="img-responsive" width="30%" style="float: left" /></p>
+    <h4>Rohan Dahale</h4>
+    <p><i>PhD Candidate <br />
+  Email: <a href="mailto:rdahale@iaa.es">rdahale@iaa.es</a></i> <br />
+  <a href="https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=AND&amp;filter_author_facet_hier_fq_author=author_facet_hier%3A%220%2FDahale%2C%20R%22&amp;fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&amp;fq_author=(author_facet_hier%3A%220%2FDahale%2C%20R%22)&amp;q=%20author%3A%22dahale%2C%20rohan%22&amp;sort=date%20desc%2C%20bibcode%20desc&amp;p_=0" target="_blank">Publications </a> <br />
+  <a href="https://rohandahale.github.io/ " target="_blank">Personal Website </a></p>
+
+    <p>Joined in October 2021</p>
+
+    <ul style="overflow: hidden">
+
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/marianna1.jpg" class="img-responsive" width="30%" style="float: left" /></p>
+    <h4>Marianna Foschi</h4>
+    <p><i>PhD Candidate <br />
+  Email: <a href="mailto:mfoschi@iaa.es">mfoschi@iaa.es</a></i> <br />
+  <a href="" target="_blank">Publications </a> <br />
+  <a href="https://mariannafoschi.github.io/ " target="_blank">Personal Website </a></p>
+
+    <p>Joined in May 2022</p>
+
+    <ul style="overflow: hidden">
+
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+<h1 id="alumni">Alumni</h1>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/guangyao1.jpg" class="img-responsive" width="30%" style="float: left" /></p>
+    <h4>Dr. Guang-Yao Zhao</h4>
+    <p><i>Postdoctoral fellow <br />
+  Email: <a href="mailto:gyzhao@iaa.es">gyzhao@iaa.es</a></i> <br />
+  <a href="https://orcid.org/0000-0002-4417-1659" target="_blank">Publications </a> <br />
+  <a href="https://gyzhao060.github.io/ " target="_blank">Personal Website </a></p>
+
+    <p>December 2019 - June 2023</p>
+
+    <ul style="overflow: hidden">
+
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/rocco1.jpg" class="img-responsive" width="30%" style="float: left" /></p>
+    <h4>Dr. Rocco Lico</h4>
+    <p><i>Postdoctoral fellow <br />
+  Email: <a href="mailto:rlico@iaa.es">rlico@iaa.es</a></i> <br />
+  <a href="https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=AND&amp;filter_author_facet_hier_fq_author=author_facet_hier%3A%220%2FLico%2C%20R%22&amp;fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&amp;fq_author=(author_facet_hier%3A%220%2FLico%2C%20R%22)&amp;q=rocco%20lico&amp;sort=date%20desc%2C%20bibcode%20desc&amp;p_=0" target="_blank">Publications </a> <br />
+  <a href="https://roccolico.github.io/ " target="_blank">Personal Website </a></p>
+
+    <p>July 2020 - June 2023</p>
+
+    <ul style="overflow: hidden">
+
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+:ET

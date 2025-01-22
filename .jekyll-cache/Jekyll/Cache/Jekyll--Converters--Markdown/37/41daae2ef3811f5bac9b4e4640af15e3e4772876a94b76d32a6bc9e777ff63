@@ -1,0 +1,129 @@
+I"�%<div id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover">
+    <!-- Menu -->
+    <ol class="carousel-indicators">
+        <li data-target="#carousel" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel" data-slide-to="1"></li>
+        <li data-target="#carousel" data-slide-to="2"></li>
+    </ol>
+
+    <!-- Items -->
+    <div class="carousel-inner">
+        <div class="item active">
+            <img src="http://localhost:4000/images/home.jpg" alt="Slide 1" />
+        </div>
+        <div class="item">
+            <img src="http://localhost:4000/images/homesgr.jpeg" alt="Slide 2" />
+        </div>
+    </div>
+  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
+<p align="center">
+<em>
+[1] First polarized image of the black hole at the centre of the M87 galaxy. [2] First image of Sagittarius A* the black hole at the centre of our galaxy Milky way. </em>
+</p>
+
+<p align="justify">
+
+Our research group is focused on the study of black hole accretion and relativistic jet formation through very long baseline interferometric  (VLBI) observations with mm-wave arrays, such as the <a href="https://eventhorizontelescope.org/">Event Horizon Telescope (EHT)</a>, and orbiting antennas, such as the space VLBI mission <a href="http://www.asc.rssi.ru/radioastron/"> RadioAstron</a>. In particular our research group is playing a key role in the scientific exploitation of the Event Horizon Telescope (EHT).
+</p>
+
+<p align="justify">
+Our group is part of the <a href="https://www.iaa.csic.es/">Instituto de Astrofísica de Andalucía (IAA-CSIC)</a>, in Granada, Spain, currently an EHT affiliated institution, one of the most important investigation centers of the country also distinguished with the “Severo Ochoa Center of Excellence Award”. The group is led by Dr. José L. Gómez who is also the Vice Chair of the EHT Science Council and one of the three coordinators of the EHT Imaging Working Group (WG).
+</p>
+
+<p align="justify">
+Our research group has become one of the most relevant in the EHT, and played a key role in the analysis and imaging of the EHT observations of SgrA*, the supermassive black hole at the center of the Milky Way. 
+</p>
+
+<p>The SgrA* image is a long-anticipated look at the massive object that sits at the very centre of our galaxy. Scientists had previously seen stars orbiting around something invisible, compact, and very massive at the centre of the Milky Way. This strongly suggested that this object — known as <strong>Sagittarius A</strong>* (Sgr A*, pronounced “sadge-ay-star”) — is a black hole, and today’s image provides the <strong>first direct visual evidence</strong> of it. The results are published in a special issue of <a href="https://iopscience.iop.org/journal/2041-8205/page/Focus_on_First_Sgr_A_Results" target="_blank">The Astrophysical Journal Letters.</a></p>
+
+<h2 id="vlbi-group-at-iaa-in-the-news">VLBI Group at IAA in the News</h2>
+<hr />
+
+<h3 id="first-image-of-sagittarius-a">First Image of Sagittarius A*</h3>
+
+<ul>
+  <li>
+    <p>Ideal: <a href="https://www.ideal.es/culturas/ciencia-salud/granadino-llevo-centro-galaxia-20220522175601-nt.html" target="_blank">El granadino que nos llevó al centro de la galaxia</a></p>
+  </li>
+  <li>
+    <p>Press Conference at CSIC Headquarters: <a href="https://www.youtube.com/watch?v=plXqkkmcr8s" target="_blank">Youtube Live</a></p>
+  </li>
+  <li>
+    <p>Newsletter by CSIC: <a href="https://www.csic.es/es/actualidad-del-csic/captada-la-primera-imagen-historica-del-agujero-negro-del-centro-de-la-galaxia" target="_blank">Captada la primera imagen histórica del agujero negro del centro de la galaxia</a></p>
+  </li>
+  <li>
+    <p>RTVE: <a href="https://www.rtve.es/play/videos/objetivo-planeta/agujero-negro-nuestra-galaxia-26-05-22/6549638/?locale=ES" target="_blank">Dr. José Luis Gómez live on RTVE with Lorenzo Milá</a></p>
+  </li>
+  <li>
+    <p>Radio 3: <a href="https://www.rtve.es/play/audios/fallo-de-sistema/">Dr. Rocco Lico and Anotonio Fuentes on Radio 3: <em>Fallo de sistema</em> with Santiago Bustamante
+</a></p>
+  </li>
+  <li>
+    <p>CSIC Instagram: <a href="https://www.instagram.com/p/Cd5pOFLt48M/" target="_blank">Dr. Thalia Traianou comments on the first image of SgrA* and her contributions in the imaging.</a></p>
+  </li>
+  <li>
+    <p>CSIC Facebook: <a href="https://www.facebook.com/watch/?v=1197469030999762&amp;ref=sharing" target="_blank">Antonio Fuentes comments on the first image of SgrA* and his contributions in the imaging.</a></p>
+  </li>
+  <li>
+    <p>CSIC LinkedIn: <a href="https://www.linkedin.com/posts/csic_rocco-lico-investigador-del-iaa-csic-activity-6934894975830663168-7PC9?utm_source=linkedin_share&amp;utm_medium=member_desktop_web" target="_blank">Dr. Rocco Lico comments on the first image of SgrA* and his contributions to the calibration of data</a></p>
+  </li>
+  <li>
+    <p>CSIC Facebook: <a href="https://fb.watch/dfFMNjKgBl/" target="_blank">Dr. Ilje Cho comments on the first image of SgrA* and his contributions to the imaging and its analysis.</a></p>
+  </li>
+  <li>
+    <p>CSIC LinkedIn: <a href="https://www.linkedin.com/posts/csic_guang-yao-zhao-cient%C3%ADfico-del-iaa-csic-activity-6935615601365168128-WNBB?utm_source=linkedin_share&amp;utm_medium=android_app" target="_blank">Dr. Guang-Yao Zhao comments on the first image of SgrA* and his contributions to the scattering and imaging.</a></p>
+  </li>
+  <li>
+    <p>CanalSur: <a href="https://www.canalsur.es/noticias/andaluc%C3%ADa/granada/andalucia-clave-en-la-captacion-de-la-primera-imagen-del-agujero-negro-de-la-via-lactea/1828828.html" target="_blank">Andalucía, clave en la captación de la primera imagen del agujero negro de la Vía Láctea</a></p>
+  </li>
+  <li>
+    <p>Nature: <a href="https://www.nature.com/articles/d41586-022-01320-y" target="_blank">Black hole at the centre of our Galaxy imaged for the first time</a></p>
+  </li>
+  <li>
+    <p>El País: <a href="https://elpais.com/ciencia/2022-05-12/tomada-la-primera-imagen-de-sagitario-a-el-agujero-negro-en-el-centro-de-nuestra-galaxia.html" target="_blank">Tomada la primera imagen de Sagitario A*, el agujero negro en el centro de nuestra galaxia</a></p>
+  </li>
+  <li>
+    <p>El País in English: <a href="https://english.elpais.com/science-tech/2022-05-13/sagittarius-a-the-inside-story-of-how-our-black-hole-was-snapped.html" target="_blank">Sagittarius A*: The inside story of how the Milky Way’s black hole was snapped</a></p>
+  </li>
+  <li>
+    <p>EL MUNDO: <a href="https://www.elmundo.es/ciencia-y-salud/ciencia/2022/05/12/627cf932e4d4d8a7728b45c1.html" target="_blank">Captan la primera imagen del agujero negro de nuestra galaxia, Sagitario A*, probando su existencia</a></p>
+  </li>
+  <li>
+    <p>20minutos: <a href="https://www.20minutos.es/noticia/4999416/0/rocco-lito-astrofisico-agujero-negro-no-tan-grande-absorver-via-lactea/" target="_blank">Rocco Lico, astrofísico: “El agujero negro no es tan grande como para absorber la Vía Láctea.”
+</a></p>
+  </li>
+  <li>
+    <p>ABC: <a href="https://www.abc.es/ciencia/abci-sigue-directo-anuncio-historico-sobre-agujero-negro-nuestra-galaxia-202205121133_directo.html" target="_blank">Primera imagen de Sagitario A*, el agujero negro del centro de nuestra galaxia, en directo</a>.</p>
+  </li>
+  <li>
+    <p>ABC: <a href="https://www.abc.es/ciencia/abci-estamos-observando-otras-galaxias-como-candidata-contener-agujeros-negros-centro-202205160228_noticia.html" target="_blank">Ya estamos observando otras galaxias, como una candidata a contener dos agujeros negros en su centro</a>.</p>
+  </li>
+  <li>
+    <p>IDEAL: <a href="https://www.ideal.es/culturas/ciencia-salud/granada-clave-primera-20220512154107-nt.html" target="_blank">Granada, clave en la primera fotografía del centro de nuestra galaxia</a></p>
+  </li>
+  <li>
+    <p>SER: <a href="https://cadenaser.com/nacional/2022/05/16/te-has-perdido-el-eclipse-lunar-el-video-que-te-permitira-disfrutar-en-todo-su-esplendor-de-un-evento-que-no-se-repetira-hasta-2025-cadena-ser/" target="_blank">¿Qué nos dice la foto de Sagitario A*, el agujero negro del centro de nuestra galaxia? Hablamos con uno de los científicos españoles que ha participado en su obtención</a></p>
+  </li>
+  <li>
+    <p>AS USA: <a href="https://en.as.com/latest_news/why-is-the-milky-way-black-hole-called-sagittarius-a-n/" target="_blank">Why is the Milky Way black hole called Sagittarius A*?</a></p>
+  </li>
+  <li>
+    <p>Cope: <a href="https://www.cope.es/actualidad/noticias/ciencia-celebra-una-imagen-historica-que-cambia-concepcion-del-universo-20220512_2079647" target="_blank">La ciencia celebra una imagen histórica que cambia la concepción del Universo</a></p>
+  </li>
+  <li>
+    <p>El Confidential: <a href="https://www.elconfidencial.com/tecnologia/ciencia/2022-05-12/imagen-historica-del-agujero-negro-de-la-via-lactea-primera-foto-real-de-sagitario-a_3423494/" target="_blank">Imagen histórica del agujero negro de la Vía Láctea: primera foto real de Sagitario A*</a></p>
+  </li>
+  <li>
+    <p>Natiódigita: <a href="https://www.naciodigital.cat/noticia/234274/aixi-sagitari-a-forat-negre-centre-via-lactia" target="_blank">Així és Sagitari A*, el forat negre del centre de la Via Làctia</a></p>
+  </li>
+</ul>
+:ET
