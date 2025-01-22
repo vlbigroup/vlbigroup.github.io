@@ -1,3 +1,19 @@
+- name: Dr. Efthalia Traianou
+  photo: thalia1.jpg
+  info: Postdoctoral fellow
+  email: traianou@iaa.es
+  publications: https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%220%2FTraianou%2C%20E%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%220%2FTraianou%2C%20E%22)&q=Efthalia%20Traianou&sort=date%20desc%2C%20bibcode%20desc&p_=0
+  website: https://thaliatraianou.github.io/
+  number_educ: 1
+  education1: May 2021 - December 2024
+
+- name: Verónica Ibeas
+  photo: veronica.jpg
+  info: Erasmus+ Research Intern
+  email: veronica.ibeasfernandez@ucdconnect.ie
+  number_educ: 1
+  education1: June - August 2024
+  
 - name: Dr. Ilje Cho
   photo: ilje1.jpg
   info:  Postdoctoral fellow
@@ -24,10 +40,3 @@
   website: https://roccolico.github.io/
   number_educ: 1
   education1: July 2020 - June 2023
-
-- name: Verónica Ibeas
-  photo: veronica.jpg
-  info: Erasmus+ Research Intern
-  email: veronica.ibeasfernandez@ucdconnect.ie
-  number_educ: 1
-  education1: June - August 2024
