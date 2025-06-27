@@ -1,3 +1,16 @@
+- title: "Helical magnetic field structure in 3C 273: A Faraday rotation analysis using multi-frequency polarimetric VLBA data."
+  image: pol.png
+  description: ""
+  authors: Toscano, T., et al.
+  date: 17 June 2025
+  journal: Astronomy & Astrophysics, Volume 698, A120
+  link:
+    url: https://www.aanda.org/articles/aa/full_html/2025/06/aa53542-24/aa53542-24.html
+    display: DOI - 10.1051/0004-6361/202453542
+  highlight: 0
+  news2:
+
+
 - title: "Evolution, speed, and precession of the parsec-scale jet in the 3C 84 radio galaxy."
   image: pol.png
   description: ""
@@ -7,6 +20,18 @@
   link:
     url: https://www.aanda.org/articles/aa/full_html/2025/04/aa53406-24/aa53406-24.html
     display: DOI - 10.1051/0004-6361/202453406
+  highlight: 0
+  news2:
+
+- title: "Black hole accretion and radiation variability in general relativistic magnetohydrodynamic simulations with Rezzolla-Zhidenko spacetime"
+  image: pol.png
+  description: ""
+  authors: Moriyama, K., et al.
+  date: 07 February 2025
+  journal: Astronomy & Astrophysics, Volume 694, A135
+  link:
+    url: https://www.aanda.org/articles/aa/full_html/2025/02/aa52679-24/aa52679-24.html
+    display: DOI - 10.1051/0004-6361/202452679
   highlight: 0
   news2:
 
