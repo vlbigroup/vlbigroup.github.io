@@ -3,7 +3,7 @@ title: "Opportunities"
 layout: textlay
 excerpt: "Open positions"
 sitemap: false
-permalink: /opportunities
+permalink: /opportunities/
 ---
 
 # Open positions
