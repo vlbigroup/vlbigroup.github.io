@@ -10,7 +10,7 @@ permalink: /opportunities/
 
 ### Postdoctoral Positions
 
-There are no open postions currently.
+[Joint position between the IAA and the CfA](https://aas.org/jobregister/ad/c1c9f194) in the EHT/ngEHT project
 
 ### PhD Students
 
